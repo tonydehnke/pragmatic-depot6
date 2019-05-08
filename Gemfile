@@ -43,6 +43,7 @@ group :development do
   #better errors and Ruby terminal support for it
   gem 'better_errors', '~> 2.5', '>= 2.5.1'
   gem "binding_of_caller"
+  gem 'rails-erd'
 end
 
 group :test do
